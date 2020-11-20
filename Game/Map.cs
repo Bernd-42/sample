@@ -1,0 +1,80 @@
+﻿using Game.Interfaces;
+using System;
+
+namespace Game
+{
+    public class Map : IDrawable
+    {
+        public Position Position;
+        public int Height;
+        public int Width;
+        public int MinLeft { get; private set; }
+        public int MaxLeft { get; private set; }
+        public int MinTop { get; private set; }
+        public int MaxTop { get; private set; }
+
+        public Map(int x, int y, int height, int width)
+        {
+            Position = new Position(x, y);
+            Height = height;
+            Width = width;
+
+            MinLeft = Position.X;
+            MaxLeft = Position.X + Width;
+            MinTop = Position.Y;
+            MaxTop = Position.Y + Height;
+        }
+
+        #region IDrawable implementation
+        public void Draw()
+        {
+            // Spielfeld
+            Console.ForegroundColor = GetColor();
+            for (int i = MinLeft; i < MaxLeft + 1; i++)
+            {
+                Console.SetCursorPosition(i, MinTop - 1);
+                Console.Write(GetSymbol());
+            }
+
+            for (int i = MinTop; i <= MaxTop + 1; i++)
+            {
+                Console.SetCursorPosition(MinLeft - 1, i - 1);
+                Console.Write(GetSymbol());
+            }
+
+            for (int i = MinLeft; i < MaxLeft + 2; i++)
+            {
+                Console.SetCursorPosition(i - 1, MaxTop + 1);
+                Console.Write(GetSymbol());
+            }
+
+            for (int i = MinTop - 1; i <= MaxTop + 1; i++)
+            {
+                Console.SetCursorPosition(MaxLeft + 1, i);
+                Console.Write(GetSymbol());
+            }
+
+            // Inventar
+
+            Console.SetCursorPosition(MaxLeft + 5, MinTop + 5);
+            Console.Write("Your Stats: ");
+
+            Console.SetCursorPosition(MaxLeft + 5, MinTop + 7);
+            Console.Write($"Health: {Player.GetInstance().Health}");
+
+            Console.SetCursorPosition(MaxLeft + 5, MinTop + 9);
+            Console.Write($"Gold: {Player.GetInstance().Gold}");
+        }
+
+        public ConsoleColor GetColor()
+        {
+            return ConsoleColor.White;
+        }
+
+        public char GetSymbol()
+        {
+            return '#';
+        }
+        #endregion
+    }
+}

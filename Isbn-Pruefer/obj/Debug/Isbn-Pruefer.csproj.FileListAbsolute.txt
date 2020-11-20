@@ -1,0 +1,14 @@
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.exe.config
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.exe
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.pdb
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.csprojAssemblyReference.cache
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.csproj.CoreCompileInputs.cache
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.exe
+D:\Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.pdb
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.exe.config
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.exe
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\bin\Debug\Isbn-Pruefer.pdb
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.csprojAssemblyReference.cache
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.csproj.CoreCompileInputs.cache
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.exe
+D:\!Umschulung\Vertiefung\Hafner\Samples\Isbn-Pruefer\obj\Debug\Isbn-Pruefer.pdb

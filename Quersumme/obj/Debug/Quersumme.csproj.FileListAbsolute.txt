@@ -1,0 +1,7 @@
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\bin\Debug\Quersumme.exe.config
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\bin\Debug\Quersumme.exe
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\bin\Debug\Quersumme.pdb
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\obj\Debug\Quersumme.csproj.CoreCompileInputs.cache
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\obj\Debug\Quersumme.exe
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\obj\Debug\Quersumme.pdb
+D:\Umschulung\Vertiefung\Hafner\Samples\Quersumme\obj\Debug\Quersumme.csprojAssemblyReference.cache
