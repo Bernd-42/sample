@@ -1,0 +1,10 @@
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\bin\Debug\Elfmeter.exe.config
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\bin\Debug\Elfmeter.exe
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\bin\Debug\Elfmeter.pdb
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.csprojAssemblyReference.cache
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.Elfmeter.resources
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.Properties.Resources.resources
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.csproj.GenerateResource.cache
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.csproj.CoreCompileInputs.cache
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.exe
+D:\!Umschulung\Vertiefung\Meins\Projekte\Elfmeter\obj\Debug\Elfmeter.pdb
